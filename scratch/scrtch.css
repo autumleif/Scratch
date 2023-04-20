@@ -1,0 +1,25 @@
+li{
+    color: darkgreen
+}
+h1{
+    font-family: inherit;
+    color: darkgreen;
+    text-decoration: underline
+}
+body{
+    background-color: #f5eddf
+}
+a {
+    color: darkgreen;
+    text-decoration: none
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: cornflowerblue
+}
+p{
+    font-size: 16px;
+    font-weight: normal;
+}
